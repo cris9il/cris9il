@@ -4,11 +4,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
--💻 I love learning and coding.
--🎓 Studying Computer Science at the University of North Carolina at Wilmington with a concentration in Artifical Intelligence.
--💼 Working as a Web Developer Apprentice with the Futuros En Stem team.
--🌱 Currently diving into Python, HTML and CSS as well as learning Data Structures and Computer Organization.
--🎸 Enjoy playing the guitar, soccer, trying new foods, and spending time with friends.
+- 💻 I love learning and coding.
+- 🎓 Studying Computer Science at the University of North Carolina at Wilmington with a concentration in Artifical Intelligence.
+- 💼 Working as a Web Developer Apprentice with the Futuros En Stem team.
+- 🌱 Currently diving into Python, HTML and CSS as well as learning Data Structures and Computer Organization.
+- 🎸 Enjoy playing the guitar, soccer, trying new foods, and spending time with friends.
 
 ## Projects that I contributed to
 
