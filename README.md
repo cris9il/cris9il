@@ -19,5 +19,5 @@
 
 <p align="center">
 <a href=https://www.linkedin.com/in/cristian-gil-910n/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cris%20Gil%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:alvarosanchez9261@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gilcris200@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="gilcris200@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gilcris200@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
