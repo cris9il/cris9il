@@ -7,7 +7,7 @@
 - 💻 I love learning and coding.
 - 🎓 Studying Computer Science at the University of North Carolina at Wilmington with a concentration in Artifical Intelligence.
 - 💼 Web Developer with the Futuros En Stem team.
-- 🌱 Currently diving into Python, Java, HTML and CSS as well as learning Object Oriented Programming, Formal Languages & Computibility and Computer Neworks.
+- 🌱 Currently diving into Python, Java, HTML and CSS as well as learning Natural Language Processing, Programming Languages, Database and Implementation and Data and Machine Learning
 - 🎸 Enjoy playing the guitar, soccer, trying new foods, and spending time with friends.
 
 ## Projects that I contributed to
